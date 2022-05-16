@@ -8,7 +8,8 @@
 `./todo.sh find <task_name_contains>`
 
 #### Done Task
-`taask_id` can be found with `find <task_name_contains>`
+- `taask_id` can be found with `find <task_name_contains>`
+
 `./todo.sh done <task_id>`
 
 
